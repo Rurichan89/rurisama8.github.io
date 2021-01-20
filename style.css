@@ -249,7 +249,7 @@ nav .menu-toggle input:checked ~ span:last-child {
 }
 
 .boost {
-  background-image: url(../img/woah.png);
+  background-image: url(woah.png);
   background-size: 98%;
   background-repeat: no-repeat;
   background-position: 0 360px;
